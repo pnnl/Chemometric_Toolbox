@@ -5,8 +5,7 @@ The PNNL Chemometric Toolbox in GitHub contains multiple MATLAB scripts and data
 
 The Supporting Information is available at [https://pubs.acs.org/doi/10.1021/acs.jchemed.2c01112](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c01112).
 
-
-[![Open in MATLAB Online](https://mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=pnnl/Chemometric_Toolbox)
+[Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=pnnl/Chemometric_Toolbox)
 
 ## Examples
 
